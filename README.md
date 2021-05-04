@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bfreed76
+- 👀 I'm studying JS and Ruby, and am interested in making fun apps.
+- 🌱 I’m also interested in entrepreneurial partnerships with other coders
+- 💞️ Right now I'm learning React. Wowzers!
+- 📫 Leave me a comment if you'd like to connect. I'm in the Pacific NorthWest.
