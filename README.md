@@ -7,7 +7,7 @@
 
 <hr></hr>
 
-:zap: My tools thus far:  
+:zap: My toolbox:  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
@@ -32,3 +32,4 @@
   <img src="https://img.shields.io/badge/IBMWatson-6C8FE3?style=flat&logo=ibmwatson" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SemanticUI-52f3cf?style=flat&logo=semanticuireact" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress" />&nbsp;&nbsp;
