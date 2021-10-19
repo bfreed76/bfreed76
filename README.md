@@ -6,14 +6,14 @@
 - 🤟 I am interested in interesting and useful apps.
 - 🌱 I’m also interested in entrepreneurial partnerships and side projects.
 - 📫 Send me an email if you'd like to connect!
-- 
+
 <p> Check out my coding playlist</p> 
 
 [![Spotify Badge](https://img.shields.io/badge/My%20Spotify-323330?style=for-the-badge&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/76Nb5HVOakNYgavKJ6iF4L?si=32d56ca2f6c14fa5)
 
 <hr></hr>
 
-:zap: My toolbox:  
+:zap: My toolkit:  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
@@ -39,3 +39,10 @@
   <img src="https://img.shields.io/badge/SemanticUI-52f3cf?style=flat&logo=semanticuireact" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=wordpress" />&nbsp;&nbsp;
+  </p>
+  
+  <div align='center'>  
+  
+![Brinton Foy Reed's github stats](https://github-readme-stats.vercel.app/api?username=bfreed76&show_icons=true&hide_border=true&theme=vue-dark) 
+
+</div>
