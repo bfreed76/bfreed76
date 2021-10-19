@@ -5,6 +5,7 @@
 - 👋 Hi, I’m Brinton (@bfreed76).
 - 🤟 I am interested in interesting and useful apps.
 - 🌱 I’m also interested in entrepreneurial partnerships and side projects.
+- I'm a Flatiron School graduate located in Oregon, USA. 
 - 📫 Send me an email if you'd like to connect!
 
 <p> Check out my coding playlist</p> 
