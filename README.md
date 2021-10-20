@@ -1,6 +1,6 @@
 <h1>Thanks for stopping by.</h1>
 
-- 👋 I’m Brinton Reed (@bfreed76).
+- 👋 A little bit about me:
 - 🌲 I live in Eugene, OR. 🌲
 - 🤟 I am interested in working on interesting and useful apps...
 - 🌱 as well as entrepreneurial partnerships and side projects.
