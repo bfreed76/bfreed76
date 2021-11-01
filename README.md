@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Insomnia-FF6C37?style=for-the-badge&logo=insomnia&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ReCharts-43B02A?style=for-the-badge&logo=Recharts&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-ChartJS-2-gray?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-ChartJS2-grey?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IBMWatson-6C8FE3?style=flat&logo=ibmwatson" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SemanticUI-52f3cf?style=flat&logo=semanticuireact" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku" />&nbsp;&nbsp;
