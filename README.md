@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/npm/v/npm.svg?logo=npm" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Insomnia-FF6C37?style=for-the-badge&logo=insomnia&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ReCharts-43B02A?style=for-the-badge&logo=Recharts&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-ChartJS2-grey?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Chartjs_2-grey?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IBMWatson-6C8FE3?style=flat&logo=ibmwatson" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SemanticUI-52f3cf?style=flat&logo=semanticuireact" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku" />&nbsp;&nbsp;
