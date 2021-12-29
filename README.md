@@ -1,11 +1,11 @@
 <h1>Thanks for stopping by.</h1>
 
 - 👋 A little bit about me:
-- 🌲 I live in Eugene, OR. 🌲
+- 🌲 I live in Eugene, OR.
 - 🤟 I am interested in working on interesting and useful apps...
 - 🌱 as well as entrepreneurial partnerships and side projects.
 -  🧑‍🤝‍🧑 Also into group facilitation, community building and volunteerism.
-- ✈️ I've traveled in 33 countries and worked in 10.
+- ✈️ I've traveled in 33 countries and have worked in China, Taiwan, India, Nepal, Cambodia Ghana, Kenya, Argentina, and Mexico.
 - 📊 Alumni: Portland State University, University of Hawaii and Flatiron School
 - 📫 Message me if you'd like to connect!
 
