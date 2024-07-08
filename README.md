@@ -1,7 +1,7 @@
 <h1>Thanks for stopping by.</h1>
 
 - 👋 A little bit about me:
-- 🌲 I live in Eugene, OR.
+- 🌲 I live in Menlo Park, CA.
 - 🤟 I am interested in working on interesting and useful apps...
 - 🌱 as well as entrepreneurial partnerships and side projects.
 -  🧑‍🤝‍🧑 Also into group facilitation, community building and volunteerism.
